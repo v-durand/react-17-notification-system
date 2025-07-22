@@ -1,5 +1,5 @@
 {
-  "name": "react-notification-system",
+  "name": "react-17-notification-system",
   "version": "0.4.0",
   "description": "A React Notification System fully customized",
   "main": "dist/NotificationSystem.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/igorprado/react-notification-system"
+    "url": "https://github.com/v-durand/react-17-notification-system"
   },
   "keywords": [
     "react",
@@ -28,9 +28,9 @@
   "author": "Igor Prado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/igorprado/react-notification-system/issues"
+    "url": "https://github.com/v-durand/react-17-notification-system/issues"
   },
-  "homepage": "https://github.com/igorprado/react-notification-system",
+  "homepage": "https://github.com/v-durand/react-17-notification-system",
   "dependencies": {
     "object-assign": "^4.0.1",
     "prop-types": "^15.5.6"
